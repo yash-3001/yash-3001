@@ -4,7 +4,7 @@ Hi 👋 My name is Yash Thakkar
 Web Developer and AI/ML Enthusiast
 ----------------------------------
 
-I've been learning coding since 5 years. I started my journey in C++ and currently i an working on becoming MERN stack developer.
+I've been learning coding since 5 years. I started my journey in C++ and currently i am working on MERN stack.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [yashthakkar6254@gmail.com](mailto:yashthakkar6254@gmail.com)
